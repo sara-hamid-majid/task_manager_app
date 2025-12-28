@@ -1,3 +1,14 @@
-# task_manager_app
+# Task Manager App
 
-A new Flutter project.
+Built with Flutter & GetX
+
+## Features:
+- Splash Screen
+- Task List Screen
+- Add Task Screen
+- Task Details Screen
+- Dark Mode
+- Task Priority
+
+## Developed by: Sara Hamid
+
